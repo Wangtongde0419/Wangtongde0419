@@ -1,16 +1,37 @@
-## Hi there 👋
+|这个作业属于哪个课程|https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience| 
+| ---- | ---- | 
+|这个作业要求在哪里|https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13469|    
+|这个作业的目标|熟悉博客园和github，为后续学习做准备|
 
-<!--
-**Wangtongde0419/Wangtongde0419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**一.基本介绍**
 
-Here are some ideas to get you started:
+大家好，我是23级计科2班的王彤德。我认为自己是一个矛盾的人，平时喜欢宅在家里撸狗打游戏看电视，却也向往蓝天白云、山河百川，且喜欢一切能够提升自己的活动。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**二.学习经历**
+
+1.掌握C、Python、java等的基本语法以及开发工具的使用
+
+2.掌握《算法与数据分析》《数据结构》里基本的算法以及数据结构
+
+3.掌握前端三剑客（HTML、CSS、JavaScript）和流行的前端框架（vue）
+
+
+**三.阅读教材后的5问**
+
+1.软件工程的核心是什么？
+
+2.软件过程模型有哪些？它们各自适合什么样的项目？​
+
+3.如何进行有效的需求分析，以确保软件真正满足用户需求？​
+
+4.怎样的软件设计才算良好？有哪些关键原则？​
+
+5.在软件开发中，如何有效地进行项目管理（如进度、风险、质量）？
+
+**四.渴望得到的收获**
+
+1.版本控制协作（Git）、沟通能力、团队合作
+
+2.不再只是“写代码”，而是从工程角度规划、设计和构建可靠、可维护的软件系统
+
+3.拥有面对复杂问题时，能够系统分析、设计并实施有效解决方案的能力
